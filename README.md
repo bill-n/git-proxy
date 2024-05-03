@@ -6,7 +6,7 @@
 
   <br />
   <br />
-
+  <br />
   <p align="center">
     Deploy custom push protections and policies<br />on top of Git
     <br />
