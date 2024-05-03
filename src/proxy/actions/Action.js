@@ -53,7 +53,7 @@ class Action {
     this.timestamp = timestamp;
     this.project = repo.split('/')[0];
     this.repoName = repo.split('/')[1];
-    this.url = `https://github.com/${repo}`;
+    this.url = `https://gitlab.com/${repo}`;
     this.repo = repo;
   }
 

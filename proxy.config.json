@@ -6,9 +6,9 @@
   },
   "authorisedList": [
     {
-      "project": "finos",
+      "project": "bill-n",
       "name": "git-proxy",
-      "url": "https://github.com/finos/git-proxy.git"
+      "url": "https://github.com/bill-n/git-proxy.git"
     }
   ],
   "sink": [
